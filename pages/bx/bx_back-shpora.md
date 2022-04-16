@@ -3,7 +3,7 @@ title: Back-end Шпаргалка Битрикс
 keywords: sample homepage
 sidebar: bx_sidebar
 folder: bx
-permalink: /bx.github.io/bx_back-shpora.html
+permalink: bx_back-shpora.html
 summary: false
 toc: true
 ---
@@ -615,7 +615,7 @@ if(!check_bitrix_sessid()) {
 ### Добавление данных в кэш при кастомизации стандартных компонентов
 
 В файлах result_modifier.php можно получить объект компонента и добавить нужные данные в кэш для последующего использования. 
-[подробнее тут](/articles_bx-component-epilog-example.html)
+[подробнее тут](/bx.github.io/articles_bx-component-epilog-example.html)
 
 ```php
 // $this->__component

@@ -35,7 +35,7 @@ toc: true
 </button>
 ```
 
-{% include note.html content="См. связанную статью [Пример работы с component_epilog.php](/articles_bx-component-epilog-example.html)" %}
+{% include note.html content="См. связанную статью [Пример работы с component_epilog.php](/bx.github.io/articles_bx-component-epilog-example.html)" %}
 
 #### JS для работы кнопок изменения количества товара и запроса на добавление в корзину
 

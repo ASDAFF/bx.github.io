@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://gdecider.github.io/sitemap.xml
+Sitemap: https://asdaff.github.io/bx.github.io/sitemap.xml

@@ -273,7 +273,7 @@ $APPLICATION->SetTitle("Корзина");
 
 ### Настройка отображения факта наличия товара в корзине в шаблоне каталога
 
-[Пример работы с component_epilog.php](/articles_bx-component-epilog-example.html)
+[Пример работы с component_epilog.php](/bx.github.io/articles_bx-component-epilog-example.html)
 
 ### Информация о товарах в сравнении
 

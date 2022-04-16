@@ -10,4 +10,4 @@ toc: false
 
 ## Общие статьи
 
-* [Настройка PhpStorm для работы с Битрикс](/articles-env-phpstorm-setup-and-config.html)      
+* [Настройка PhpStorm для работы с Битрикс](/bx.github.io/articles-env-phpstorm-setup-and-config.html)      

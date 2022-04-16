@@ -56,7 +56,7 @@ insert_final_newline = true
 
 * Все данные, добавляемые в массив ```$arResult``` при кастомизации стандартных компонентов писать в ```$arResult['CSTM']``` CSTM сокращение от custom.
 
-* Именовать константы в соответствии с [правилами](https://gdecider.github.io/bx_struktura-proekta.html#localphp_interfaceincludeconstantsphp)
+* Именовать константы в соответствии с [правилами](/bx.github.io/bx_struktura-proekta.html#localphp_interfaceincludeconstantsphp)
 
 * Имена глобальных переменных, используемых в проектах:
 

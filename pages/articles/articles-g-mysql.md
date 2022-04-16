@@ -10,7 +10,7 @@ toc: false
 
 ## Общие статьи
 
-* [Восстановление БД MySql после сбоя](/articles-mysql-restore.html)      
+* [Восстановление БД MySql после сбоя](/bx.github.io/articles-mysql-restore.html)      
 
 ## Полезное
 
