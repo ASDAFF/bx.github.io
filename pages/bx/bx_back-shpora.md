@@ -3,7 +3,7 @@ title: Back-end Шпаргалка Битрикс
 keywords: sample homepage
 sidebar: bx_sidebar
 folder: bx
-permalink: bx_back-shpora.html
+permalink: /bx.github.io/bx_back-shpora.html
 summary: false
 toc: true
 ---
