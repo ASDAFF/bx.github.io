@@ -143,7 +143,7 @@ entries:
       output: web, pdf
 
     - title: Шпаргалка (по коду)
-      url: /bx_back-shpora.html
+      url: /bx.github.io/bx_back-shpora.html
       output: web, pdf
     
     - title: Советы (по интерфейсу)
