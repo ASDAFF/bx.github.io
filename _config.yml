@@ -104,6 +104,8 @@ defaults:
 
 sidebars:
 - bx_sidebar
+- sf_sidebar
+- lr_sidebar
 - articles_sidebar
 - home_sidebar
 - mydoc_sidebar
