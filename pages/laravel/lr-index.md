@@ -1,9 +1,9 @@
 ---
-title: Symfony
-keywords: symfony artilces index page
-sidebar: articles_sidebar
-folder: symfony
-permalink: sf-index.html
+title: Laravel
+keywords: laravel artilces index page
+sidebar: bx_sidebar
+folder: laravel
+permalink: lr-index.html
 summary: false
 toc: false
 ---
