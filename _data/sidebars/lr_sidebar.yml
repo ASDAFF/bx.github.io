@@ -24,7 +24,7 @@ entries:
         folderitems:
 
           - title: Обучение
-            url: /bx_index.html
+            url: /lr_index.html
             output: web, pdf
             type: homepage
 
@@ -33,24 +33,24 @@ entries:
         folderitems:
 
           - title: Технологии
-            url: /bx_struktura-tehnologii.html
+            url: /lr_struktura-tehnologii.html
             output: web, pdf
             type: homepage
 
           - title: Структура папок и файлов
-            url: /bx_struktura-proekta.html
+            url: /lr_struktura-proekta.html
             output: web, pdf
 
           - title: Структура шаблона сайта
-            url: /bx_struktura-shablona-saita.html
+            url: /lr_struktura-shablona-saita.html
             output: web, pdf
 
           - title: Старт и перенос
-            url: /bx_struktura-start-and-build.html
+            url: /lr_struktura-start-and-build.html
             output: web, pdf
 
           - title: Ведение разработки с использованием GIT
-            url: /bx_struktura-development-with-git.html
+            url: /lr_struktura-development-with-git.html
             output: web, pdf
 
             subfolders:
@@ -59,23 +59,23 @@ entries:
                 subfolderitems:
 
                   - title: Google Tag Manager
-                    url: /bx_scripts-gtm.html
+                    url: /lr_scripts-gtm.html
                     output: web
 
                   - title: Яндекс.Метрика
-                    url: /bx_scripts-ym.html
+                    url: /lr_scripts-ym.html
                     output: web
 
                   - title: Google Analytics
-                    url: /bx_scripts-ga.html
+                    url: /lr_scripts-ga.html
                     output: web
 
                   - title: Retail Rocket
-                    url: /bx_scripts-retailrocket.html
+                    url: /lr_scripts-retailrocket.html
                     output: web
 
           - title: Чек-лист проекта
-            url: /bx_struktura-checklist.html
+            url: /lr_struktura-checklist.html
             output: web, pdf
 
       - title: Дизайн
@@ -83,11 +83,11 @@ entries:
         folderitems:
 
           - title: Требования к дизайну
-            url: /bx_design-trebovaniya.html
+            url: /lr_design-trebovaniya.html
             output: web, pdf
 
           - title: Правила передачи дизайн-макета
-            url: /bx_design-rules.html
+            url: /lr_design-rules.html
             output: web, pdf
 
       - title: Front-end
@@ -95,11 +95,11 @@ entries:
         folderitems:
 
           - title: Правила передачи верстки
-            url: /bx_front-rules.html
+            url: /lr_front-rules.html
             output: web, pdf
 
           - title: HTML Code Style
-            url: /bx_front-code-style.html
+            url: /lr_front-code-style.html
             output: web, pdf
 
           - title: SASS Code Style
@@ -111,23 +111,23 @@ entries:
             output: web, pdf
 
           - title: Рекомендуемые плагины
-            url: /bx_front-recomend-plugins.html
+            url: /lr_front-recomend-plugins.html
             output: web, pdf
 
           - title: Шаблоны верстки
-            url: /bx_front-tmpls.html
+            url: /lr_front-tmpls.html
             output: web, pdf
 
           - title: Сервисы и инструменты
-            url: /bx_front-tools.html
+            url: /lr_front-tools.html
             output: web, pdf
 
           - title: Настройка среды
-            url: /bx_front-setup.html
+            url: /lr_front-setup.html
             output: web, pdf
 
           - title: Обучение
-            url: /bx_front-learning.html
+            url: /lr_front-learning.html
             output: web, pdf
 
       - title: Back-end
@@ -135,19 +135,19 @@ entries:
         folderitems:
 
           - title: Code Style
-            url: /bx_back-code-style.html
+            url: /lr_back-code-style.html
             output: web, pdf
 
           - title: Сервисы и инструменты
-            url: /bx_back-tools.html
+            url: /lr_back-tools.html
             output: web, pdf
 
           - title: Шпаргалка (по коду)
-            url: /bx_back-shpora.html
+            url: /lr_back-shpora.html
             output: web, pdf
 
           - title: Советы (по интерфейсу)
-            url: /bx_back-bitrix-admin-panel-hints.html
+            url: /lr_back-bitrix-admin-panel-hints.html
             output: web, pdf
 
       - title: Git
@@ -155,7 +155,7 @@ entries:
         folderitems:
 
           - title: Шпаргалка
-            url: /bx_git-shpora.html
+            url: /lr_git-shpora.html
             output: web, pdf
 
       - title: Сервер
@@ -163,15 +163,15 @@ entries:
         folderitems:
 
           - title: Настройка
-            url: /bx_server-setup.html
+            url: /lr_server-setup.html
             output: web, pdf
 
           - title: Настройка редиректов
-            url: /bx_server-redirects.html
+            url: /lr_server-redirects.html
             output: web, pdf
 
           - title: Получение и настройка бесплатного SSL сертификата Let's Encrypt для сайта с помощью CertBot
-            url: /bx_server-ssl-lets-encrypt.html
+            url: /lr_server-ssl-lets-encrypt.html
             output: web, pdf
 
       - title: Верстка рассылок
@@ -179,11 +179,11 @@ entries:
         folderitems:
 
           - title: Общие принципы
-            url: /bx_email-code-style.html
+            url: /lr_email-code-style.html
             output: web, pdf
 
           - title: Статьи
-            url: /bx_email-articles.html
+            url: /lr_email-articles.html
             output: web, pdf
 
       
