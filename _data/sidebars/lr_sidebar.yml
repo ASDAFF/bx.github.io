@@ -174,16 +174,5 @@ entries:
             url: /lr_server-ssl-lets-encrypt.html
             output: web, pdf
 
-      - title: Верстка рассылок
-        output: web, pdf
-        folderitems:
-
-          - title: Общие принципы
-            url: /lr_email-code-style.html
-            output: web, pdf
-
-          - title: Статьи
-            url: /lr_email-articles.html
-            output: web, pdf
 
       
