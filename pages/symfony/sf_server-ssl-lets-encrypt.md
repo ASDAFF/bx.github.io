@@ -1,9 +1,9 @@
 ---
 title: Получение и настройка бесплатного SSL сертификата Let's Encrypt для сайта с помощью CertBot
 keywords: sample homepage
-sidebar: lr_sidebar
-folder: lr
-permalink: lr_server-ssl-lets-encrypt.html
+sidebar: sf_sidebar
+folder: symfony
+permalink: sf_server-ssl-lets-encrypt.html
 summary: false
 toc: true
 ---

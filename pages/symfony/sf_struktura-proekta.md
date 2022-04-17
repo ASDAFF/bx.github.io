@@ -1,9 +1,9 @@
 ---
 title: Структура проекта
 keywords: sample homepage
-sidebar: lr_sidebar
-folder: lr
-permalink: lr_struktura-proekta.html
+sidebar: sf_sidebar
+folder: symfony
+permalink: sf_struktura-proekta.html
 summary: false
 toc: true
 ---

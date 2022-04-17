@@ -1,9 +1,9 @@
 ---
 title: Проект | Установка скриптов | Retail Rocket
 keywords: sample homepage
-sidebar: lr_sidebar
-folder: lr
-permalink: lr_scripts-retailrocket.html
+sidebar: sf_sidebar
+folder: symfony
+permalink: sf_scripts-retailrocket.html
 summary: false
 toc: false
 ---

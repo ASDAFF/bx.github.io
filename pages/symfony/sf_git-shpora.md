@@ -1,9 +1,9 @@
 ---
 title: Git Шпаргалка | Список часто используемых команд
 keywords: sample homepage
-sidebar: lr_sidebar
-folder: lr
-permalink: lr_git-shpora.html
+sidebar: sf_sidebar
+folder: symfony
+permalink: sf_git-shpora.html
 summary: false
 toc: true
 ---

@@ -1,9 +1,9 @@
 ---
 title: Чек-лист проверки проекта
 keywords: sample homepage
-sidebar: lr_sidebar
-folder: lr
-permalink: lr_struktura-checklist.html
+sidebar: sf_sidebar
+folder: symfony
+permalink: sf_struktura-checklist.html
 summary: false
 toc: false
 ---

@@ -1,9 +1,9 @@
 ---
 title: Сервер Настройка редиректов
 keywords: sample homepage
-sidebar: lr_sidebar
-folder: lr
-permalink: lr_server-redirects.html
+sidebar: sf_sidebar
+folder: symfony
+permalink: sf_server-redirects.html
 summary: false
 toc: false
 ---

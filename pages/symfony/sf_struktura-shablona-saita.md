@@ -1,9 +1,9 @@
 ---
 title: Структура шаблона сайта
 keywords: sample homepage
-sidebar: lr_sidebar
-folder: lr
-permalink: lr_struktura-shablona-saita.html
+sidebar: sf_sidebar
+folder: symfony
+permalink: sf_struktura-shablona-saita.html
 summary: false
 toc: false
 ---

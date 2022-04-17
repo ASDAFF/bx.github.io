@@ -1,9 +1,9 @@
 ---
 title: Проект. Список пунктов для проверки.
 keywords: sample homepage
-sidebar: lr_sidebar
-folder: lr
-permalink: lr_project-check-list.html
+sidebar: sf_sidebar
+folder: symfony
+permalink: sf_project-check-list.html
 summary: false
 toc: true
 ---

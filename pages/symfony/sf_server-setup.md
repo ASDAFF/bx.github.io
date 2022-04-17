@@ -1,9 +1,9 @@
 ---
 title: Сервер Настройка
 keywords: sample homepage
-sidebar: lr_sidebar
-folder: lr
-permalink: lr_server-setup.html
+sidebar: sf_sidebar
+folder: symfony
+permalink: sf_server-setup.html
 summary: false
 toc: false
 ---

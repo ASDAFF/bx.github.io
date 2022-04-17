@@ -1,9 +1,9 @@
 ---
 title: Проект | Установка скриптов | Яндекс.Метрика
 keywords: sample homepage
-sidebar: lr_sidebar
-folder: lr
-permalink: lr_scripts-ym.html
+sidebar: sf_sidebar
+folder: symfony
+permalink: sf_scripts-ym.html
 summary: false
 toc: false
 ---

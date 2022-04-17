@@ -1,9 +1,9 @@
 ---
 title: Ведение разработки с использованием GIT и Битрикс24
 keywords: sample homepage
-sidebar: lr_sidebar
-folder: lr
-permalink: lr_struktura-development-with-git.html
+sidebar: sf_sidebar
+folder: symfony
+permalink: sf_struktura-development-with-git.html
 summary: false
 toc: false
 ---

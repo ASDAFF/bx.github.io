@@ -1,9 +1,9 @@
 ---
 title: Используемые языки программирования и инструменты
 keywords: sample homepage
-sidebar: lr_sidebar
-folder: lr
-permalink: lr_struktura-tehnologii.html
+sidebar: sf_sidebar
+folder: symfony
+permalink: sf_struktura-tehnologii.html
 summary: false
 toc: false
 ---
