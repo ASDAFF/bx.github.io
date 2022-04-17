@@ -1,15 +1,19 @@
 ---
-title: Back-end Битрикс советы по использованию административного интерфейса
-keywords: sample homepage
+title: Laravel
+keywords: laravel artilces index page
 sidebar: lr_sidebar
 folder: laravel
 permalink: lr_index.html
 summary: false
-toc: true
+toc: false
 ---
+## Symfony список плагинов
 
-### Определить в каком компоненте последним установлен текущий заголовок (title) страницы
+* Перевод времени в читаемый интервал
+  * [https://github.com/KnpLabs/KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle)
 
-**Публичный раздел**
-
-```SEO -> Управление -> Текущий заголовок страницы``` в скобках указан компонент и пространство имен
+* Data faker
+  * [https://github.com/fzaninotto/Faker](https://github.com/fzaninotto/Faker)
+  
+* StofDoctrineExtensionsBundle
+  * [https://github.com/stof/StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle)
