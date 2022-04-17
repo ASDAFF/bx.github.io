@@ -1,0 +1,171 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: sidebar
+    product: Проекты на Symfony
+    version:
+    folders:
+
+      - title:
+        output: pdf
+        type: frontmatter
+        folderitems:
+          - title:
+            url: /titlepage
+            output: pdf
+            type: frontmatter
+          - title:
+            url: /tocpage
+            output: pdf
+            type: frontmatter
+
+      - title: Введение
+        output: web, pdf
+        folderitems:
+
+          - title: Обучение
+            url: /lr_index.html
+            output: web, pdf
+            type: homepage
+
+      - title: Проект
+        output: web, pdf
+        folderitems:
+
+          - title: Технологии
+            url: /bx_struktura-tehnologii.html
+            output: web, pdf
+            type: homepage
+
+          - title: Структура папок и файлов
+            url: /bx_struktura-proekta.html
+            output: web, pdf
+
+          - title: Структура шаблонов
+            url: /bx_struktura-shablona-saita.html
+            output: web, pdf
+
+          - title: Старт и перенос
+            url: /bx_struktura-start-and-build.html
+            output: web, pdf
+
+          - title: Ведение разработки с использованием GIT
+            url: /bx_struktura-development-with-git.html
+            output: web, pdf
+
+            subfolders:
+              - title: Установка скриптов
+                output: web
+                subfolderitems:
+
+                  - title: Google Tag Manager
+                    url: /bx_scripts-gtm.html
+                    output: web
+
+                  - title: Яндекс.Метрика
+                    url: /bx_scripts-ym.html
+                    output: web
+
+                  - title: Google Analytics
+                    url: /bx_scripts-ga.html
+                    output: web
+
+                  - title: Retail Rocket
+                    url: /bx_scripts-retailrocket.html
+                    output: web
+
+          - title: Чек-лист проекта
+            url: /bx_struktura-checklist.html
+            output: web, pdf
+
+      - title: Дизайн
+        output: web, pdf
+        folderitems:
+
+          - title: Требования к дизайну
+            url: /bx_design-trebovaniya.html
+            output: web, pdf
+
+          - title: Правила передачи дизайн-макета
+            url: /bx_design-rules.html
+            output: web, pdf
+
+      - title: Front-end
+        output: web, pdf
+        folderitems:
+
+          - title: HTML Code Style
+            url: /bx_front-code-style.html
+            output: web, pdf
+
+          - title: SASS Code Style
+            url: /mydoc_release_notes_50.html
+            output: web, pdf
+
+          - title: JS Code Style
+            url: /mydoc_release_notes_50.html
+            output: web, pdf
+
+          - title: Рекомендуемые плагины
+            url: /bx_front-recomend-plugins.html
+            output: web, pdf
+
+          - title: Шаблоны верстки
+            url: /bx_front-tmpls.html
+            output: web, pdf
+
+          - title: Сервисы и инструменты
+            url: /bx_front-tools.html
+            output: web, pdf
+
+          - title: Настройка среды
+            url: /bx_front-setup.html
+            output: web, pdf
+
+          - title: Обучение
+            url: /bx_front-learning.html
+            output: web, pdf
+
+      - title: Back-end
+        output: web, pdf
+        folderitems:
+
+          - title: Code Style
+            url: /bx_back-code-style.html
+            output: web, pdf
+
+          - title: Сервисы и инструменты
+            url: /bx_back-tools.html
+            output: web, pdf
+
+          - title: Шпаргалка (по коду)
+            url: /bx_back-shpora.html
+            output: web, pdf
+
+          - title: Советы (по интерфейсу)
+            url: /bx_back-bitrix-admin-panel-hints.html
+            output: web, pdf
+
+      - title: Git
+        output: web, pdf
+        folderitems:
+
+          - title: Шпаргалка
+            url: /bx_git-shpora.html
+            output: web, pdf
+
+      - title: Сервер
+        output: web, pdf
+        folderitems:
+
+          - title: Настройка
+            url: /bx_server-setup.html
+            output: web, pdf
+
+          - title: Настройка редиректов
+            url: /bx_server-redirects.html
+            output: web, pdf
+
+          - title: Получение и настройка бесплатного SSL сертификата Let's Encrypt для сайта с помощью CertBot
+            url: /bx_server-ssl-lets-encrypt.html
+            output: web, pdf

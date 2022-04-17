@@ -1,7 +1,7 @@
 ---
 title: Laravel
 keywords: laravel artilces index page
-sidebar: bx_sidebar
+sidebar: lr_sidebar
 folder: laravel
 permalink: lr-index.html
 summary: false
