@@ -14,5 +14,7 @@ topnav_dropdowns:
       folderitems:
         - title: 1С Битрикс
           url: /bx_index.html
+        - title: Laravel
+          url: /lr-index.html
         - title: Symfony
           url: /sf-index.html
