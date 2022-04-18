@@ -32,52 +32,51 @@ entries:
         output: web, pdf
         folderitems:
 
+          - title: Структура каталогов
+            output: web
+            subfolderitems:
+
+              - title: Структура каталогов
+                url: /lr_struktura-catalogs.html
+                output: web
+
+              - title: Корневой каталог
+                url: /lr_root-directory.html
+                output: web
+
+              - title: Каталог пространства App
+                url: /lr_app-directory.html
+                output: web
+
+          - title: Структура шаблона
+            url: /lr_struktura-shablona.html
+            output: web, pdf
+
+          - title: Старт и перенос
+            url: /lr_struktura-start-and-build.html
+            output: web, pdf
+
             subfolders:
+              - title: База данных
+                output: web
+                subfolderitems:
 
-            - title: Структура каталогов
-              output: web
-              subfolderitems:
+                  - title: База данных
+                    url: /lr_database.html
+                    output: web
 
-                - title: Структура каталогов
-                  url: /lr_struktura-catalogs.html
-                  output: web
+                  - title: Конструктор запросов
+                    url: /lr_queries.html
+                    output: web
 
-                - title: Корневой каталог
-                  url: /lr_root-directory.html
-                  output: web
+                  - title: Миграции
+                    url: /lr_migrations.html
+                    output: web
 
-                - title: Каталог пространства App
-                  url: /lr_app-directory.html
-                  output: web
+          - title: Чек-лист проекта
+            url: /lr_struktura-checklist.html
+            output: web, pdf
 
-            - title: Структура шаблона
-              url: /lr_struktura-shablona.html
-              output: web, pdf
-
-            - title: Старт и перенос
-              url: /lr_struktura-start-and-build.html
-              output: web, pdf
-
-              subfolders:
-                - title: База данных
-                  output: web
-                  subfolderitems:
-
-                    - title: База данных
-                      url: /lr_database.html
-                      output: web
-
-                    - title: Конструктор запросов
-                      url: /lr_queries.html
-                      output: web
-
-                    - title: Миграции
-                      url: /lr_migrations.html
-                      output: web
-
-            - title: Чек-лист проекта
-              url: /lr_struktura-checklist.html
-              output: web, pdf
 
       - title: Front-end
         output: web, pdf
