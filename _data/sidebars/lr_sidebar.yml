@@ -32,51 +32,52 @@ entries:
         output: web, pdf
         folderitems:
 
-            subfolders:
-              - title: Структура каталогов
-                output: web
-                subfolderitems:
+          subfolders:
 
-                  - title: Структура каталогов
-                    url: /lr_struktura-catalogs.html
-                    output: web
+            - title: Структура каталогов
+              output: web
+              subfolderitems:
 
-                  - title: Корневой каталог
-                    url: /lr_root-directory.html
-                    output: web
+                - title: Структура каталогов
+                  url: /lr_struktura-catalogs.html
+                  output: web
 
-                  - title: Каталог пространства App
-                    url: /lr_app-directory.html
-                    output: web
+                - title: Корневой каталог
+                  url: /lr_root-directory.html
+                  output: web
 
-          - title: Структура шаблона
-            url: /lr_struktura-shablona.html
-            output: web, pdf
+                - title: Каталог пространства App
+                  url: /lr_app-directory.html
+                  output: web
 
-          - title: Старт и перенос
-            url: /lr_struktura-start-and-build.html
-            output: web, pdf
+            - title: Структура шаблона
+              url: /lr_struktura-shablona.html
+              output: web, pdf
 
-            subfolders:
-              - title: База данных
-                output: web
-                subfolderitems:
+            - title: Старт и перенос
+              url: /lr_struktura-start-and-build.html
+              output: web, pdf
 
-                  - title: База данных
-                    url: /lr_database.html
-                    output: web
+              subfolders:
+                - title: База данных
+                  output: web
+                  subfolderitems:
 
-                  - title: Конструктор запросов
-                    url: /lr_queries.html
-                    output: web
+                    - title: База данных
+                      url: /lr_database.html
+                      output: web
 
-                  - title: Миграции
-                    url: /lr_migrations.html
-                    output: web
+                    - title: Конструктор запросов
+                      url: /lr_queries.html
+                      output: web
 
-          - title: Чек-лист проекта
-            url: /lr_struktura-checklist.html
-            output: web, pdf
+                    - title: Миграции
+                      url: /lr_migrations.html
+                      output: web
+
+            - title: Чек-лист проекта
+              url: /lr_struktura-checklist.html
+              output: web, pdf
 
       - title: Front-end
         output: web, pdf
@@ -149,6 +150,3 @@ entries:
           - title: Настройка редиректов
             url: /lr_server-redirects.html
             output: web, pdf
-
-
-      
