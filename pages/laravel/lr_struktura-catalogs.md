@@ -2,7 +2,7 @@
 title: Структура каталогов
 keywords: sample homepage
 sidebar: lr_sidebar
-folder: lr
+folder: laravel
 permalink: lr_struktura-catalogs.html
 summary: false
 toc: true

@@ -2,7 +2,7 @@
 title: Проект | Старт и перенос
 keywords: sample homepage
 sidebar: lr_sidebar
-folder: lr
+folder: laravel
 permalink: lr_struktura-start-and-build.html
 summary: false
 toc: true

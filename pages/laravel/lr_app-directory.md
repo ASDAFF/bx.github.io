@@ -2,7 +2,7 @@
 title: Каталог пространства App
 keywords: app directory
 sidebar: lr_sidebar
-folder: lr
+folder: laravel
 permalink: lr_app-directory.html
 summary: false
 toc: true

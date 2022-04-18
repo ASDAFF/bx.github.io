@@ -2,7 +2,7 @@
 title: Чек-лист проверки проекта
 keywords: sample homepage
 sidebar: lr_sidebar
-folder: lr
+folder: laravel
 permalink: lr_struktura-checklist.html
 summary: false
 toc: false

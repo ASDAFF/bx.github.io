@@ -2,7 +2,7 @@
 title: Корневой каталог
 keywords: root catalog
 sidebar: lr_sidebar
-folder: lr
+folder: laravel
 permalink: lr_root-catalog.html
 summary: false
 toc: true

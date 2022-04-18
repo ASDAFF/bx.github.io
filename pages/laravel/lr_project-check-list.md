@@ -2,7 +2,7 @@
 title: Проект. Список пунктов для проверки.
 keywords: sample homepage
 sidebar: lr_sidebar
-folder: lr
+folder: laravel
 permalink: lr_project-check-list.html
 summary: false
 toc: true

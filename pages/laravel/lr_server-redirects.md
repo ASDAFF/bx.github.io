@@ -2,7 +2,7 @@
 title: Сервер Настройка редиректов
 keywords: sample homepage
 sidebar: lr_sidebar
-folder: lr
+folder: laravel
 permalink: lr_server-redirects.html
 summary: false
 toc: false

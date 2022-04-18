@@ -2,7 +2,7 @@
 title: Структура шаблона сайта
 keywords: sample homepage
 sidebar: lr_sidebar
-folder: lr
+folder: laravel
 permalink: lr_struktura-shablona.html
 summary: false
 toc: false
