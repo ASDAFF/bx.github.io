@@ -135,9 +135,5 @@ entries:
             url: /lr_server-redirects.html
             output: web, pdf
 
-          - title: Получение и настройка бесплатного SSL сертификата Let's Encrypt для сайта с помощью CertBot
-            url: /lr_server-ssl-lets-encrypt.html
-            output: web, pdf
-
 
       
