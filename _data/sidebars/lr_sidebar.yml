@@ -32,17 +32,12 @@ entries:
         output: web, pdf
         folderitems:
 
-          - title: Технологии
-            url: /lr_struktura-tehnologii.html
-            output: web, pdf
-            type: homepage
-
           - title: Структура каталогов
             url: /lr_struktura-catalogs.html
             output: web, pdf
 
-          - title: Структура шаблона сайта
-            url: /lr_struktura-shablona-saita.html
+          - title: Структура шаблона
+            url: /lr_struktura-shablona.html
             output: web, pdf
 
           - title: Старт и перенос
@@ -53,41 +48,8 @@ entries:
             url: /lr_struktura-development-with-git.html
             output: web, pdf
 
-            subfolders:
-              - title: Установка скриптов
-                output: web
-                subfolderitems:
-
-                  - title: Google Tag Manager
-                    url: /lr_scripts-gtm.html
-                    output: web
-
-                  - title: Яндекс.Метрика
-                    url: /lr_scripts-ym.html
-                    output: web
-
-                  - title: Google Analytics
-                    url: /lr_scripts-ga.html
-                    output: web
-
-                  - title: Retail Rocket
-                    url: /lr_scripts-retailrocket.html
-                    output: web
-
           - title: Чек-лист проекта
             url: /lr_struktura-checklist.html
-            output: web, pdf
-
-      - title: Дизайн
-        output: web, pdf
-        folderitems:
-
-          - title: Требования к дизайну
-            url: /lr_design-trebovaniya.html
-            output: web, pdf
-
-          - title: Правила передачи дизайн-макета
-            url: /lr_design-rules.html
             output: web, pdf
 
       - title: Front-end
@@ -148,14 +110,6 @@ entries:
 
           - title: Советы (по интерфейсу)
             url: /lr_back-bitrix-admin-panel-hints.html
-            output: web, pdf
-
-      - title: Git
-        output: web, pdf
-        folderitems:
-
-          - title: Шпаргалка
-            url: /lr_git-shpora.html
             output: web, pdf
 
       - title: Сервер

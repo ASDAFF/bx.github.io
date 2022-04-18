@@ -3,7 +3,7 @@ title: Структура шаблона сайта
 keywords: sample homepage
 sidebar: lr_sidebar
 folder: lr
-permalink: lr_struktura-shablona-saita.html
+permalink: lr_struktura-shablona.html
 summary: false
 toc: false
 ---
