@@ -32,9 +32,21 @@ entries:
         output: web, pdf
         folderitems:
 
-          - title: Структура каталогов
-            url: /lr_struktura-catalogs.html
-            output: web, pdf
+            subfolders:
+              - title: Структура каталогов
+                output: web
+                subfolderitems:
+                  - title: Структура каталогов
+                    url: /lr_struktura-catalogs.html
+                    output: web
+
+                  - title: Корневой каталог
+                    url: /lr_database.html
+                    output: web
+
+                  - title: Конструктор запросов
+                    url: /lr_queries.html
+                    output: web
 
           - title: Структура шаблона
             url: /lr_struktura-shablona.html
