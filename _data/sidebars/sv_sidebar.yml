@@ -6,13 +6,17 @@ entries:
   folders:
 
   - title: Other Links
+    output: web
     folderitems:
 
-    - title: Automated links bookmark
-      url: /mydoc_hyperlinks.html#automatedlinks
+      - title: Automated links bookmark
+        url: /mydoc_hyperlinks.html#automatedlinks
+        output: web, pdf
 
-    - title: Bookmark links
-      url: /mydoc_hyperlinks.html#bookmarklinks
+      - title: Bookmark links
+        url: /mydoc_hyperlinks.html#bookmarklinks
+        output: web, pdf
 
-    - title: Some link bookmark
-      url: /mydoc_pages.html#someIdTag
+      - title: Some link bookmark
+        url: /mydoc_pages.html#someIdTag
+        output: web, pdf
