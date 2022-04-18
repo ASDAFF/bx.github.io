@@ -44,9 +44,22 @@ entries:
             url: /lr_struktura-start-and-build.html
             output: web, pdf
 
-          - title: Ведение разработки с использованием GIT
-            url: /lr_struktura-development-with-git.html
+          - title: База данных
+            url: /lr_database.html
             output: web, pdf
+
+            subfolders:
+              - title: База данных
+                output: web
+                subfolderitems:
+
+                  - title: Конструктор запросов
+                    url: /lr_queries.html
+                    output: web
+
+                  - title: Миграции
+                    url: /lr_migrations.html
+                    output: web
 
           - title: Чек-лист проекта
             url: /lr_struktura-checklist.html
