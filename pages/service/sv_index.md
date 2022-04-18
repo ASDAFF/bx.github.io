@@ -1,7 +1,7 @@
 ---
 title: Сервисы и инструменты
 keywords: sample homepage
-sidebar: sv_sidebar
+sidebar: lr_sidebar
 folder: service
 permalink: sv_index.html
 summary: false
