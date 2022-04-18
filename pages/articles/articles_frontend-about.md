@@ -9,6 +9,6 @@ toc: false
 ---
 
 ## Статьи front-end
-* [Примеры](/bx.github.io/articles_frontend-examples.html)
-* [Добавление прелоадера на сайт](/bx.github.io/articles-front-add-preloader.html)
-* [Шпаргалка Bootstrap 4](/bx.github.io/articles-front-bootstrap-4-shpora.html)
+* [Примеры](/my_notepad/articles_frontend-examples.html)
+* [Добавление прелоадера на сайт](/my_notepad/articles-front-add-preloader.html)
+* [Шпаргалка Bootstrap 4](/my_notepad/articles-front-bootstrap-4-shpora.html)

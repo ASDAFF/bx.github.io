@@ -615,7 +615,7 @@ if(!check_bitrix_sessid()) {
 ### Добавление данных в кэш при кастомизации стандартных компонентов
 
 В файлах result_modifier.php можно получить объект компонента и добавить нужные данные в кэш для последующего использования. 
-[подробнее тут](/bx.github.io/articles_bx-component-epilog-example.html)
+[подробнее тут](/my_notepad/articles_bx-component-epilog-example.html)
 
 ```php
 // $this->__component

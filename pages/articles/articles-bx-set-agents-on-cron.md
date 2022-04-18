@@ -26,4 +26,4 @@ crontab -e
 */1 * * * * php <site_path>/bitrix/modules/main/tools/cron_events.php
 ```
 
-Подробнее о работе с cron можно узнать [тут](/bx.github.io/articles-env-cron-howto.html)
+Подробнее о работе с cron можно узнать [тут](/my_notepad/articles-env-cron-howto.html)

@@ -9,7 +9,7 @@ toc: false
 ---
 ## Разное
 
-* [Настройка SSH ключей](/bx.github.io/articles-other-ssh-keys.html)
+* [Настройка SSH ключей](/my_notepad/articles-other-ssh-keys.html)
 
 ## Список статей для прочтения и переработки
 

@@ -173,7 +173,7 @@ $arComponentDescription = [
 
 **Результат:**
 
-![Разместить компонент в ветке на ровне с остальными основными ветками](/bx.github.io/images/articles_bx-component-creation_1.jpg)
+![Разместить компонент в ветке на ровне с остальными основными ветками](/my_notepad/images/articles_bx-component-creation_1.jpg)
 
 * Разместить компонент в дочернюю ветку
 
@@ -200,7 +200,7 @@ $arComponentDescription = [
 
 **Результат:**
 
-![Разместить компонент в дочернюю ветку](/bx.github.io/images/articles_bx-component-creation_2.jpg)
+![Разместить компонент в дочернюю ветку](/my_notepad/images/articles_bx-component-creation_2.jpg)
 
 Пример файла языковых констант ```lang/ru/.description.php```:
 

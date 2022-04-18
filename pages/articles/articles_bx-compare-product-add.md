@@ -25,7 +25,7 @@ toc: true
    class="add-to-compare jsToggleCompare <?$APPLICATION->ShowProperty('COMPARE_BTN_CLASS_'.$arItem['ID']);?>"><?$APPLICATION->ShowProperty('COMPARE_BTN_TEXT_'.$arItem['ID']);?></a>
 ```
 
-{% include note.html content="См. связанную статью [Пример работы с component_epilog.php](/bx.github.io/articles_bx-component-epilog-example.html)" %}
+{% include note.html content="См. связанную статью [Пример работы с component_epilog.php](/my_notepad/articles_bx-component-epilog-example.html)" %}
 
 #### JS для кнопки добавления/удаления в/из избранного
 

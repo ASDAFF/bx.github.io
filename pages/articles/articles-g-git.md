@@ -10,6 +10,6 @@ toc: false
 
 ## Общие статьи
 
-* [Список часто используемых команд (шпаргалка) Git](/bx.github.io/bx_git-shpora.html)
-* [Составление файла .gitignore](/bx.github.io/articles-git-gitignore.html)      
+* [Список часто используемых команд (шпаргалка) Git](/my_notepad/bx_git-shpora.html)
+* [Составление файла .gitignore](/my_notepad/articles-git-gitignore.html)      
 

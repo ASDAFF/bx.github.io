@@ -62,12 +62,12 @@ toc: true
 
 ### Дополнительные сервисы
 
-* [Установлен код Яндекс.Метрика (может быть установлен через Google Tag Manager)](https://metrika.yandex.ru) [Как установить](/bx.github.io/bx_scripts-ym.html)
+* [Установлен код Яндекс.Метрика (может быть установлен через Google Tag Manager)](https://metrika.yandex.ru) [Как установить](/my_notepad/bx_scripts-ym.html)
 
-* [Установлен код Google Analytics (может быть установлен через Google Tag Manager)](https://analytics.google.com/analytics/web/provision/#provision/SignUp/) [Как установить](/bx.github.io/bx_scripts-ga.html)
+* [Установлен код Google Analytics (может быть установлен через Google Tag Manager)](https://analytics.google.com/analytics/web/provision/#provision/SignUp/) [Как установить](/my_notepad/bx_scripts-ga.html)
 
-* [Установлен код Google Tag Manager](https://www.google.com/analytics/tag-manager/) [Как установить](/bx.github.io/bx_scripts-gtm.html)
+* [Установлен код Google Tag Manager](https://www.google.com/analytics/tag-manager/) [Как установить](/my_notepad/bx_scripts-gtm.html)
 
-* [Retail Rocket](https://studioratio.ru/retailrocket/) [Как установить](/bx.github.io/bx_scripts-retailrocket.html)
+* [Retail Rocket](https://studioratio.ru/retailrocket/) [Как установить](/my_notepad/bx_scripts-retailrocket.html)
 
-* [Roistat](http://roistat.com/ru/) [Как установить](/bx.github.io/bx_scripts-roistat.html)
+* [Roistat](http://roistat.com/ru/) [Как установить](/my_notepad/bx_scripts-roistat.html)
