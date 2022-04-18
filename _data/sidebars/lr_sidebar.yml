@@ -41,11 +41,11 @@ entries:
                     output: web
 
                   - title: Корневой каталог
-                    url: /lr_database.html
+                    url: /lr_root-catalog.html
                     output: web
 
-                  - title: Конструктор запросов
-                    url: /lr_queries.html
+                  - title: Каталог пространства App
+                    url: /lr_app-directory.html
                     output: web
 
           - title: Структура шаблона

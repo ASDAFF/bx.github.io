@@ -58,4 +58,4 @@ toc: true
 
 ## Каталог vendor
 
-    Каталог vendor содержит ваши Composer-зависимости.
+Каталог vendor содержит ваши Composer-зависимости.
