@@ -3,7 +3,7 @@ title: Сервисы и инструменты
 keywords: sample homepage
 sidebar: service_sidebar
 folder: service
-permalink: index.html
+permalink: sv_index.html
 summary: false
 toc: false
 ---

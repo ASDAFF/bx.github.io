@@ -13,7 +13,7 @@ topnav_dropdowns:
     - title: Документация
       folderitems:
         - title: Сервисы
-          url: /index.html
+          url: /sv_index.html
         - title: 1С Битрикс
           url: /bx_index.html
         - title: Laravel
