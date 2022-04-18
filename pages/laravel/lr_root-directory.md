@@ -3,7 +3,7 @@ title: Корневой каталог
 keywords: root catalog
 sidebar: lr_sidebar
 folder: laravel
-permalink: lr_root-catalog.html
+permalink: lr_root-directory.html
 summary: false
 toc: true
 ---     

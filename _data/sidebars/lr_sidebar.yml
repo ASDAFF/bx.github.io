@@ -36,12 +36,13 @@ entries:
               - title: Структура каталогов
                 output: web
                 subfolderitems:
+
                   - title: Структура каталогов
                     url: /lr_struktura-catalogs.html
                     output: web
 
                   - title: Корневой каталог
-                    url: /lr_root-catalog.html
+                    url: /lr_root-directory.html
                     output: web
 
                   - title: Каталог пространства App
@@ -137,12 +138,12 @@ entries:
             url: /lr_back-bitrix-admin-panel-hints.html
             output: web, pdf
 
-      - title: Сервер
+      - title: Развертывание
         output: web, pdf
         folderitems:
 
-          - title: Настройка
-            url: /lr_server-setup.html
+          - title: Конфигурация сервера
+            url: /lr_server-configuration.html
             output: web, pdf
 
           - title: Настройка редиректов
