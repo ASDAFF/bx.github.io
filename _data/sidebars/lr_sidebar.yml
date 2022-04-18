@@ -50,8 +50,8 @@ entries:
                 subfolderitems:
 
                   - title: База данных
-                      url: /lr_database.html
-                      output: web, pdf
+                    url: /lr_database.html
+                    output: web
 
                   - title: Конструктор запросов
                     url: /lr_queries.html
