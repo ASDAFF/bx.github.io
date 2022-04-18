@@ -31,6 +31,7 @@ entries:
       - title: Проект
         output: web, pdf
         folderitems:
+
           - title: Структура каталогов
             url: /lr_struktura-catalogs.html
             output: web, pdf
@@ -47,6 +48,7 @@ entries:
               - title: База данных
                 output: web
                 subfolderitems:
+
                   - title: База данных
                       url: /lr_database.html
                       output: web, pdf
