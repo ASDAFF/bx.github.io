@@ -3,6 +3,8 @@
 topnav:
 - title: Topnav
   items:
+    - title: Сервисы
+      url: /sv_index.html
     - title: Статьи
       url: /articles-index.html
 
@@ -12,8 +14,6 @@ topnav_dropdowns:
   folders:
     - title: Документация
       folderitems:
-        - title: Сервисы
-          url: /sv_index.html
         - title: 1С Битрикс
           url: /bx_index.html
         - title: Laravel
