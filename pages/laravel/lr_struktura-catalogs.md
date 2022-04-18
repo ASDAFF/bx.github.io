@@ -7,9 +7,6 @@ permalink: lr_struktura-catalogs.html
 summary: false
 toc: true
 ---
-## Структура каталогов
-
-
 
 * Введение
 * Корневой каталог
@@ -41,6 +38,8 @@ toc: true
      * Каталог пространства Providers
      * Каталог пространства Rules
      
+
+# Корневой каталог
      
 ## Каталог app
 
@@ -91,4 +90,6 @@ toc: true
 ## Каталог vendor
 
 Каталог vendor содержит ваши Composer-зависимости.
+
+# Каталог пространства App
 
