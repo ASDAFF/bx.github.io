@@ -87,6 +87,10 @@ entries:
     - title: Список статей
       url: /articles-g-cms-bitrix.html
       output: web, pdf
+
+    - title: Список статей
+      url: /articles-bugs-bitrix.html
+      output: web, pdf
   
   - title: Битрикс24
     output: web, pdf
