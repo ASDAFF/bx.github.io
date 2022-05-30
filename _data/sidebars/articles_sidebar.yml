@@ -115,6 +115,10 @@ entries:
     - title: Список статей
       url: /articles-g-git.html
       output: web, pdf
+
+    - title: git — ошибка file name too long
+      url: /articles-g-too-long.html
+      output: web, pdf
       
   - title: Front-end
     output: web, pdf
