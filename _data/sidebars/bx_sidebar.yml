@@ -170,7 +170,7 @@ entries:
             url: /bx_server-redirects.html
             output: web, pdf
 
-          - title: Настройка редиректов
+          - title: Стандартный .htaccess
             url: /bx_standartnyy-htaccess.html
             output: web, pdf
 
