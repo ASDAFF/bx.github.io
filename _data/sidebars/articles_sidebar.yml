@@ -31,7 +31,7 @@ entries:
           output: web
           subfolderitems:
 
-            - title: Увеличение диска на готовой виртуальной машине Битрикс
+            - title: Увеличение диска
               url: /articles-vware.html
               output: web, pdf
               type: homepage
