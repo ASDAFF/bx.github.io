@@ -25,7 +25,17 @@ entries:
     - title: Список статей
       url: /articles-g-env.html
       output: web, pdf
-      
+
+      subfolders:
+        - title: Виртуальная машина
+          output: web
+          subfolderitems:
+
+            - title: Увеличение диска на готовой виртуальной машине Битрикс
+              url: /articles-vware.html
+              output: web, pdf
+              type: homepage
+
     - title: PHPStorm
       url: /articles-env-phpstorm-index.html
       output: web, pdf
