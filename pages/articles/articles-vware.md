@@ -1,8 +1,8 @@
 ---
-title: Статьи Рабочее окружение
+title: Увеличение диска на готовой виртуальной машине Битрикс
 sidebar: articles_sidebar
-keywords: окружение битрикс, редакторы битрикс, настройка окружения битрикс php
-permalink: articles-g-env.html
+keywords: виртуальная машина Битрикс
+permalink: articles-vware.html
 toc: false
 folder: articles
 ---
