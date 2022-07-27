@@ -112,11 +112,11 @@ entries:
     folderitems:
 
     - title: Пример разработки модуля
-      url: /articles_bx24-module-example.html
+      url: /bx24-module-example.html
       output: web, pdf
 
     - title: Работа с пользовательскими полями
-      url: /bx24-module-example.html
+      url: /bx24-user-fields.html
       output: web, pdf
       
   - title: MySql
