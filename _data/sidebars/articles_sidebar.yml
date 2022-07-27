@@ -114,6 +114,10 @@ entries:
     - title: Пример разработки модуля
       url: /articles_bx24-module-example.html
       output: web, pdf
+
+    - title: Работа с пользовательскими полями
+      url: /bx24-module-example.html
+      output: web, pdf
       
   - title: MySql
     output: web, pdf    
