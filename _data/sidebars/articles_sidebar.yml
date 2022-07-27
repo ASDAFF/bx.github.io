@@ -36,6 +36,11 @@ entries:
               output: web, pdf
               type: homepage
 
+            - title: Установить cURL
+              url: /articles-curl.html
+              output: web, pdf
+              type: homepage
+
     - title: PHPStorm
       url: /articles-env-phpstorm-index.html
       output: web, pdf
