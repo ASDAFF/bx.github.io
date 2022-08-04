@@ -106,6 +106,10 @@ entries:
     - title: Ошибки и способы их устранения
       url: /articles-bugs-bitrix.html
       output: web, pdf
+
+    - title: Зацикливание обработчиков событий
+      url: /articles-bugs-events-bitrix.html
+      output: web, pdf
   
   - title: Битрикс24
     output: web, pdf
